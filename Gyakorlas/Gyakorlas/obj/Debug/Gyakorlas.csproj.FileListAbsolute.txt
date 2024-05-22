@@ -1,0 +1,10 @@
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.exe.config
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.exe
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.pdb
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.AssemblyReference.cache
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.Form1.resources
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.Properties.Resources.resources
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.GenerateResource.cache
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.exe
+C:\Users\Lilla\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.pdb

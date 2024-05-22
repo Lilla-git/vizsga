@@ -1,0 +1,8 @@
+nev;darab;ar
+polo;5;2000
+nadrag;8;2000
+zokni;14;500
+sapka;18;1500
+alsogetya;23;200
+bugyi;20;200
+melltarto;54;300
